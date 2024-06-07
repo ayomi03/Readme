@@ -1,4 +1,4 @@
-# 10 ARRAY METHODS
+## 10 ARRAY METHODS
 
 1. **push**
    - **What it does:** *Adds a new toy to the end of the box.*
@@ -120,7 +120,7 @@
 **Explanation:** You took all the toys and put them together with a comma and a space in between each toy, making a long string of toys.
 
 
-# 10 STRING METHODS
+## 10 STRING METHODS
 
 1. **concat**
    - **What it does:** *Joins two or more strings together.*
@@ -243,7 +243,7 @@
 
 **Explanation:** You checked if 'Hello, World!' ends with 'World!', and it does, so the answer is true.
 
-# 10 NUMBER METHODS
+## 10 NUMBER METHODS
 
 1. **parseInt()**
    - **What it does:** *Turns a string into a whole number.*
